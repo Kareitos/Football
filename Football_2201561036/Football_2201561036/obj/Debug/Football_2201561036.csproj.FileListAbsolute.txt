@@ -1,0 +1,8 @@
+C:\Users\Цецо\Desktop\ПУ\OOP\Upr\Football_2201561036\Football_2201561036\bin\Debug\Football_2201561036.exe.config
+C:\Users\Цецо\Desktop\ПУ\OOP\Upr\Football_2201561036\Football_2201561036\bin\Debug\Football_2201561036.exe
+C:\Users\Цецо\Desktop\ПУ\OOP\Upr\Football_2201561036\Football_2201561036\bin\Debug\Football_2201561036.pdb
+C:\Users\Цецо\Desktop\ПУ\OOP\Upr\Football_2201561036\Football_2201561036\obj\Debug\Football_2201561036.csproj.AssemblyReference.cache
+C:\Users\Цецо\Desktop\ПУ\OOP\Upr\Football_2201561036\Football_2201561036\obj\Debug\Football_2201561036.csproj.SuggestedBindingRedirects.cache
+C:\Users\Цецо\Desktop\ПУ\OOP\Upr\Football_2201561036\Football_2201561036\obj\Debug\Football_2201561036.csproj.CoreCompileInputs.cache
+C:\Users\Цецо\Desktop\ПУ\OOP\Upr\Football_2201561036\Football_2201561036\obj\Debug\Football_2201561036.exe
+C:\Users\Цецо\Desktop\ПУ\OOP\Upr\Football_2201561036\Football_2201561036\obj\Debug\Football_2201561036.pdb
